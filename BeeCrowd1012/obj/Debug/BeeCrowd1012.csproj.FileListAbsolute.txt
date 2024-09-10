@@ -1,0 +1,7 @@
+C:\Users\nicol\source\repos\ExerciciosAula26\BeeCrowd1012\bin\Debug\BeeCrowd1012.exe.config
+C:\Users\nicol\source\repos\ExerciciosAula26\BeeCrowd1012\bin\Debug\BeeCrowd1012.exe
+C:\Users\nicol\source\repos\ExerciciosAula26\BeeCrowd1012\bin\Debug\BeeCrowd1012.pdb
+C:\Users\nicol\source\repos\ExerciciosAula26\BeeCrowd1012\obj\Debug\BeeCrowd1012.csproj.AssemblyReference.cache
+C:\Users\nicol\source\repos\ExerciciosAula26\BeeCrowd1012\obj\Debug\BeeCrowd1012.csproj.CoreCompileInputs.cache
+C:\Users\nicol\source\repos\ExerciciosAula26\BeeCrowd1012\obj\Debug\BeeCrowd1012.exe
+C:\Users\nicol\source\repos\ExerciciosAula26\BeeCrowd1012\obj\Debug\BeeCrowd1012.pdb

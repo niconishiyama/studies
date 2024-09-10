@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "Z:\\Studies\\csharp\\udemy-n\u00E9lio\\aulas\\ExerciciosAula26\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{88D24DB0-8080-4E8C-AD70-C3A4283E416B}|BeeCrowd1012\\BeeCrowd1012.csproj|z:\\studies\\csharp\\udemy-n\u00E9lio\\aulas\\exerciciosaula26\\beecrowd1012\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{88D24DB0-8080-4E8C-AD70-C3A4283E416B}|BeeCrowd1012\\BeeCrowd1012.csproj|solutionrelative:beecrowd1012\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "Z:\\Studies\\csharp\\udemy-n\u00E9lio\\aulas\\ExerciciosAula26\\BeeCrowd1012\\Program.cs",
+              "RelativeDocumentMoniker": "BeeCrowd1012\\Program.cs",
+              "ToolTip": "Z:\\Studies\\csharp\\udemy-n\u00E9lio\\aulas\\ExerciciosAula26\\BeeCrowd1012\\Program.cs",
+              "RelativeToolTip": "BeeCrowd1012\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAnAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-10T22:02:52.282Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
